@@ -1,0 +1,2 @@
+path_loss(m, s, t, u) = 79.2 + 26*log10(distance_from_n_th_smallcell(m, s, t, u));
+path_loss_shadowing(m, s, t, u) = 79.2 + 26*log10(distance_from_n_th_smallcell(m, s, t, u))+ round(4*rand())-round(4*rand());

@@ -1,0 +1,3121 @@
+time = 2
+    "pinpog_num = "    "0"    "oscilation_rate = "    "NaN"
+
+    "total handover = "    "0"
+
+Handover Margin = 2
+RSP = -97.7
+Location-->  x = 100 y = 2
+time = 3
+    "pinpog_num = "    "0"    "oscilation_rate = "    "NaN"
+
+    "total handover = "    "0"
+
+Handover Margin = 2
+RSP = -97.7
+Location-->  x = 100 y = 3
+time = 4
+    "pinpog_num = "    "0"    "oscilation_rate = "    "NaN"
+
+    "total handover = "    "0"
+
+Handover Margin = 2
+RSP = -94.7
+Location-->  x = 100 y = 4
+time = 5
+    "pinpog_num = "    "0"    "oscilation_rate = "    "NaN"
+
+    "total handover = "    "0"
+
+Handover Margin = 2
+RSP = -96.7
+Location-->  x = 100 y = 5
+time = 6
+    "pinpog_num = "    "0"    "oscilation_rate = "    "0"
+
+    "total handover = "    "1"
+
+Handover Margin = 2
+RSP = -94.7
+Location-->  x = 100 y = 6
+time = 7
+    "pinpog_num = "    "0"    "oscilation_rate = "    "0"
+
+    "total handover = "    "1"
+
+Handover Margin = 2
+RSP = -97.7
+Location-->  x = 100 y = 7
+time = 8
+    "pinpog_num = "    "1"    "oscilation_rate = "    "0.5"
+
+    "total handover = "    "2"
+
+Handover Margin = 2
+RSP = -93.7
+Location-->  x = 100 y = 8
+time = 9
+    "pinpog_num = "    "1"    "oscilation_rate = "    "0.5"
+
+    "total handover = "    "2"
+
+Handover Margin = 2
+RSP = -97.7
+Location-->  x = 100 y = 9
+time = 10
+    "pinpog_num = "    "1"    "oscilation_rate = "    "0.5"
+
+    "total handover = "    "2"
+
+Handover Margin = 2
+RSP = -95.7
+Location-->  x = 100 y = 10
+time = 11
+    "pinpog_num = "    "1"    "oscilation_rate = "    "0.5"
+
+    "total handover = "    "2"
+
+Handover Margin = 2
+RSP = -95.7
+Location-->  x = 100 y = 11
+time = 12
+    "pinpog_num = "    "1"    "oscilation_rate = "    "0.33333"
+
+    "total handover = "    "3"
+
+Handover Margin = 2
+RSP = -95.7
+Location-->  x = 100 y = 12
+time = 13
+    "pinpog_num = "    "1"    "oscilation_rate = "    "0.33333"
+
+    "total handover = "    "3"
+
+Handover Margin = 2
+RSP = -96.7
+Location-->  x = 100 y = 13
+time = 14
+    "pinpog_num = "    "2"    "oscilation_rate = "    "0.5"
+
+    "total handover = "    "4"
+
+Handover Margin = 2
+RSP = -94.7
+Location-->  x = 100 y = 14
+time = 15
+    "pinpog_num = "    "2"    "oscilation_rate = "    "0.5"
+
+    "total handover = "    "4"
+
+Handover Margin = 2
+RSP = -97.7
+Location-->  x = 100 y = 15
+time = 16
+    "pinpog_num = "    "2"    "oscilation_rate = "    "0.5"
+
+    "total handover = "    "4"
+
+Handover Margin = 2
+RSP = -93.7
+Location-->  x = 100 y = 16
+time = 17
+    "pinpog_num = "    "2"    "oscilation_rate = "    "0.5"
+
+    "total handover = "    "4"
+
+Handover Margin = 2
+RSP = -94.7
+Location-->  x = 100 y = 17
+time = 18
+    "pinpog_num = "    "2"    "oscilation_rate = "    "0.4"
+
+    "total handover = "    "5"
+
+Handover Margin = 2
+RSP = -93.7
+Location-->  x = 100 y = 18
+time = 19
+    "pinpog_num = "    "2"    "oscilation_rate = "    "0.4"
+
+    "total handover = "    "5"
+
+Handover Margin = 2
+RSP = -99.7
+Location-->  x = 100 y = 19
+time = 20
+    "pinpog_num = "    "2"    "oscilation_rate = "    "0.4"
+
+    "total handover = "    "5"
+
+Handover Margin = 2
+RSP = -92.7
+Location-->  x = 100 y = 20
+time = 21
+    "pinpog_num = "    "2"    "oscilation_rate = "    "0.4"
+
+    "total handover = "    "5"
+
+Handover Margin = 2
+RSP = -96.7
+Location-->  x = 100 y = 21
+time = 22
+    "pinpog_num = "    "2"    "oscilation_rate = "    "0.33333"
+
+    "total handover = "    "6"
+
+Handover Margin = 2
+RSP = -92.7
+Location-->  x = 100 y = 22
+time = 23
+    "pinpog_num = "    "2"    "oscilation_rate = "    "0.33333"
+
+    "total handover = "    "6"
+
+Handover Margin = 2
+RSP = -96.7
+Location-->  x = 100 y = 23
+time = 24
+    "pinpog_num = "    "2"    "oscilation_rate = "    "0.33333"
+
+    "total handover = "    "6"
+
+Handover Margin = 2
+RSP = -94.7
+Location-->  x = 100 y = 24
+time = 25
+    "pinpog_num = "    "2"    "oscilation_rate = "    "0.33333"
+
+    "total handover = "    "6"
+
+Handover Margin = 2
+RSP = -96.7
+Location-->  x = 100 y = 25
+time = 26
+    "pinpog_num = "    "2"    "oscilation_rate = "    "0.33333"
+
+    "total handover = "    "6"
+
+Handover Margin = 2
+RSP = -95.7
+Location-->  x = 99 y = 25
+time = 27
+    "pinpog_num = "    "2"    "oscilation_rate = "    "0.28571"
+
+    "total handover = "    "7"
+
+Handover Margin = 2
+RSP = -94.5871
+Location-->  x = 98 y = 25
+time = 28
+    "pinpog_num = "    "2"    "oscilation_rate = "    "0.25"
+
+    "total handover = "    "8"
+
+Handover Margin = 2
+RSP = -93.4742
+Location-->  x = 97 y = 25
+time = 29
+    "pinpog_num = "    "3"    "oscilation_rate = "    "0.33333"
+
+    "total handover = "    "9"
+
+Handover Margin = 2
+RSP = -93.3615
+Location-->  x = 96 y = 25
+time = 30
+    "pinpog_num = "    "4"    "oscilation_rate = "    "0.44444"
+
+    "total handover = "    "9"
+
+Handover Margin = 2
+RSP = -95.2488
+Location-->  x = 95 y = 25
+time = 31
+    "pinpog_num = "    "4"    "oscilation_rate = "    "0.44444"
+
+    "total handover = "    "9"
+
+Handover Margin = 2
+RSP = -96.1364
+Location-->  x = 94 y = 25
+time = 32
+    "pinpog_num = "    "4"    "oscilation_rate = "    "0.44444"
+
+    "total handover = "    "9"
+
+Handover Margin = 2
+RSP = -96.0243
+Location-->  x = 93 y = 25
+time = 33
+    "pinpog_num = "    "4"    "oscilation_rate = "    "0.44444"
+
+    "total handover = "    "9"
+
+Handover Margin = 2
+RSP = -93.9125
+Location-->  x = 92 y = 25
+time = 34
+    "pinpog_num = "    "4"    "oscilation_rate = "    "0.44444"
+
+    "total handover = "    "9"
+
+Handover Margin = 2
+RSP = -94.801
+Location-->  x = 91 y = 25
+time = 35
+    "pinpog_num = "    "4"    "oscilation_rate = "    "0.44444"
+
+    "total handover = "    "9"
+
+Handover Margin = 2
+RSP = -96.69
+Location-->  x = 90 y = 25
+time = 36
+    "pinpog_num = "    "4"    "oscilation_rate = "    "0.44444"
+
+    "total handover = "    "9"
+
+Handover Margin = 2
+RSP = -93.5796
+Location-->  x = 89 y = 25
+time = 37
+    "pinpog_num = "    "4"    "oscilation_rate = "    "0.44444"
+
+    "total handover = "    "9"
+
+Handover Margin = 2
+RSP = -96.4697
+Location-->  x = 88 y = 25
+time = 38
+    "pinpog_num = "    "4"    "oscilation_rate = "    "0.4"
+
+    "total handover = "    "10"
+
+Handover Margin = 2
+RSP = -93.3606
+Location-->  x = 87 y = 25
+time = 39
+    "pinpog_num = "    "4"    "oscilation_rate = "    "0.4"
+
+    "total handover = "    "10"
+
+Handover Margin = 2
+RSP = -95.2522
+Location-->  x = 86 y = 25
+time = 40
+    "pinpog_num = "    "4"    "oscilation_rate = "    "0.4"
+
+    "total handover = "    "10"
+
+Handover Margin = 2
+RSP = -95.1446
+Location-->  x = 85 y = 25
+time = 41
+    "pinpog_num = "    "4"    "oscilation_rate = "    "0.4"
+
+    "total handover = "    "10"
+
+Handover Margin = 2
+RSP = -94.038
+Location-->  x = 84 y = 25
+time = 42
+    "pinpog_num = "    "4"    "oscilation_rate = "    "0.4"
+
+    "total handover = "    "10"
+
+Handover Margin = 2
+RSP = -96.9325
+Location-->  x = 83 y = 25
+time = 43
+    "pinpog_num = "    "4"    "oscilation_rate = "    "0.4"
+
+    "total handover = "    "10"
+
+Handover Margin = 2
+RSP = -92.828
+Location-->  x = 82 y = 25
+time = 44
+    "pinpog_num = "    "4"    "oscilation_rate = "    "0.4"
+
+    "total handover = "    "10"
+
+Handover Margin = 2
+RSP = -92.7249
+Location-->  x = 81 y = 25
+time = 45
+    "pinpog_num = "    "4"    "oscilation_rate = "    "0.4"
+
+    "total handover = "    "10"
+
+Handover Margin = 2
+RSP = -94.623
+Location-->  x = 80 y = 25
+time = 46
+    "pinpog_num = "    "4"    "oscilation_rate = "    "0.4"
+
+    "total handover = "    "10"
+
+Handover Margin = 2
+RSP = -94.5226
+Location-->  x = 79 y = 25
+time = 47
+    "pinpog_num = "    "4"    "oscilation_rate = "    "0.4"
+
+    "total handover = "    "10"
+
+Handover Margin = 2
+RSP = -96.4238
+Location-->  x = 78 y = 25
+time = 48
+    "pinpog_num = "    "4"    "oscilation_rate = "    "0.4"
+
+    "total handover = "    "10"
+
+Handover Margin = 2
+RSP = -92.3266
+Location-->  x = 77 y = 25
+time = 49
+    "pinpog_num = "    "4"    "oscilation_rate = "    "0.4"
+
+    "total handover = "    "10"
+
+Handover Margin = 2
+RSP = -92.2313
+Location-->  x = 76 y = 25
+time = 50
+    "pinpog_num = "    "4"    "oscilation_rate = "    "0.4"
+
+    "total handover = "    "10"
+
+Handover Margin = 2
+RSP = -94.1378
+Location-->  x = 75 y = 25
+time = 51
+    "pinpog_num = "    "4"    "oscilation_rate = "    "0.4"
+
+    "total handover = "    "10"
+
+Handover Margin = 2
+RSP = -93.0464
+Location-->  x = 75 y = 26
+time = 52
+    "pinpog_num = "    "4"    "oscilation_rate = "    "0.4"
+
+    "total handover = "    "10"
+
+Handover Margin = 2
+RSP = -93.0464
+Location-->  x = 75 y = 27
+time = 53
+    "pinpog_num = "    "4"    "oscilation_rate = "    "0.4"
+
+    "total handover = "    "10"
+
+Handover Margin = 2
+RSP = -95.0464
+Location-->  x = 75 y = 28
+time = 54
+    "pinpog_num = "    "4"    "oscilation_rate = "    "0.4"
+
+    "total handover = "    "10"
+
+Handover Margin = 2
+RSP = -92.0464
+Location-->  x = 75 y = 29
+time = 55
+    "pinpog_num = "    "4"    "oscilation_rate = "    "0.4"
+
+    "total handover = "    "10"
+
+Handover Margin = 2
+RSP = -95.0464
+Location-->  x = 75 y = 30
+time = 56
+    "pinpog_num = "    "4"    "oscilation_rate = "    "0.4"
+
+    "total handover = "    "10"
+
+Handover Margin = 2
+RSP = -92.0464
+Location-->  x = 75 y = 31
+time = 57
+    "pinpog_num = "    "4"    "oscilation_rate = "    "0.4"
+
+    "total handover = "    "10"
+
+Handover Margin = 2
+RSP = -96.0464
+Location-->  x = 75 y = 32
+time = 58
+    "pinpog_num = "    "4"    "oscilation_rate = "    "0.4"
+
+    "total handover = "    "10"
+
+Handover Margin = 2
+RSP = -94.0464
+Location-->  x = 75 y = 33
+time = 59
+    "pinpog_num = "    "4"    "oscilation_rate = "    "0.4"
+
+    "total handover = "    "10"
+
+Handover Margin = 2
+RSP = -94.0464
+Location-->  x = 75 y = 34
+time = 60
+    "pinpog_num = "    "4"    "oscilation_rate = "    "0.4"
+
+    "total handover = "    "10"
+
+Handover Margin = 2
+RSP = -94.0464
+Location-->  x = 75 y = 35
+time = 61
+    "pinpog_num = "    "4"    "oscilation_rate = "    "0.4"
+
+    "total handover = "    "10"
+
+Handover Margin = 2
+RSP = -94.0464
+Location-->  x = 75 y = 36
+time = 62
+    "pinpog_num = "    "4"    "oscilation_rate = "    "0.4"
+
+    "total handover = "    "10"
+
+Handover Margin = 2
+RSP = -93.0464
+Location-->  x = 75 y = 37
+time = 63
+    "pinpog_num = "    "4"    "oscilation_rate = "    "0.4"
+
+    "total handover = "    "10"
+
+Handover Margin = 2
+RSP = -94.0464
+Location-->  x = 75 y = 38
+time = 64
+    "pinpog_num = "    "4"    "oscilation_rate = "    "0.36364"
+
+    "total handover = "    "11"
+
+Handover Margin = 2
+RSP = -92.0464
+Location-->  x = 75 y = 39
+time = 65
+    "pinpog_num = "    "4"    "oscilation_rate = "    "0.36364"
+
+    "total handover = "    "11"
+
+Handover Margin = 2
+RSP = -94.0464
+Location-->  x = 75 y = 40
+time = 66
+    "pinpog_num = "    "5"    "oscilation_rate = "    "0.41667"
+
+    "total handover = "    "12"
+
+Handover Margin = 2
+RSP = -92.0464
+Location-->  x = 75 y = 41
+time = 67
+    "pinpog_num = "    "5"    "oscilation_rate = "    "0.41667"
+
+    "total handover = "    "12"
+
+Handover Margin = 2
+RSP = -92.0464
+Location-->  x = 75 y = 42
+time = 68
+    "pinpog_num = "    "5"    "oscilation_rate = "    "0.41667"
+
+    "total handover = "    "12"
+
+Handover Margin = 2
+RSP = -93.0464
+Location-->  x = 75 y = 43
+time = 69
+    "pinpog_num = "    "5"    "oscilation_rate = "    "0.41667"
+
+    "total handover = "    "12"
+
+Handover Margin = 2
+RSP = -95.0464
+Location-->  x = 75 y = 44
+time = 70
+    "pinpog_num = "    "5"    "oscilation_rate = "    "0.41667"
+
+    "total handover = "    "12"
+
+Handover Margin = 2
+RSP = -94.0464
+Location-->  x = 75 y = 45
+time = 71
+    "pinpog_num = "    "5"    "oscilation_rate = "    "0.41667"
+
+    "total handover = "    "12"
+
+Handover Margin = 2
+RSP = -93.0464
+Location-->  x = 75 y = 46
+time = 72
+    "pinpog_num = "    "5"    "oscilation_rate = "    "0.41667"
+
+    "total handover = "    "12"
+
+Handover Margin = 2
+RSP = -94.0464
+Location-->  x = 75 y = 47
+time = 73
+    "pinpog_num = "    "5"    "oscilation_rate = "    "0.41667"
+
+    "total handover = "    "12"
+
+Handover Margin = 2
+RSP = -94.0464
+Location-->  x = 75 y = 48
+time = 74
+    "pinpog_num = "    "5"    "oscilation_rate = "    "0.41667"
+
+    "total handover = "    "12"
+
+Handover Margin = 2
+RSP = -94.0464
+Location-->  x = 75 y = 49
+time = 75
+    "pinpog_num = "    "5"    "oscilation_rate = "    "0.38462"
+
+    "total handover = "    "13"
+
+Handover Margin = 2
+RSP = -93.0464
+Location-->  x = 75 y = 50
+time = 76
+    "pinpog_num = "    "5"    "oscilation_rate = "    "0.38462"
+
+    "total handover = "    "13"
+
+Handover Margin = 2
+RSP = -96.0464
+Location-->  x = 74 y = 50
+time = 77
+    "pinpog_num = "    "5"    "oscilation_rate = "    "0.38462"
+
+    "total handover = "    "13"
+
+Handover Margin = 2
+RSP = -93.9572
+Location-->  x = 73 y = 50
+time = 78
+    "pinpog_num = "    "5"    "oscilation_rate = "    "0.38462"
+
+    "total handover = "    "13"
+
+Handover Margin = 2
+RSP = -92.8703
+Location-->  x = 72 y = 50
+time = 79
+    "pinpog_num = "    "5"    "oscilation_rate = "    "0.38462"
+
+    "total handover = "    "13"
+
+Handover Margin = 2
+RSP = -94.7858
+Location-->  x = 71 y = 50
+time = 80
+    "pinpog_num = "    "5"    "oscilation_rate = "    "0.35714"
+
+    "total handover = "    "14"
+
+Handover Margin = 2
+RSP = -93.7038
+Location-->  x = 70 y = 50
+time = 81
+    "pinpog_num = "    "5"    "oscilation_rate = "    "0.35714"
+
+    "total handover = "    "14"
+
+Handover Margin = 2
+RSP = -91.6246
+Location-->  x = 69 y = 50
+time = 82
+    "pinpog_num = "    "5"    "oscilation_rate = "    "0.35714"
+
+    "total handover = "    "14"
+
+Handover Margin = 2
+RSP = -92.5481
+Location-->  x = 68 y = 50
+time = 83
+    "pinpog_num = "    "5"    "oscilation_rate = "    "0.35714"
+
+    "total handover = "    "14"
+
+Handover Margin = 2
+RSP = -92.4746
+Location-->  x = 67 y = 50
+time = 84
+    "pinpog_num = "    "5"    "oscilation_rate = "    "0.35714"
+
+    "total handover = "    "14"
+
+Handover Margin = 2
+RSP = -91.4042
+Location-->  x = 66 y = 50
+time = 85
+    "pinpog_num = "    "5"    "oscilation_rate = "    "0.35714"
+
+    "total handover = "    "14"
+
+Handover Margin = 2
+RSP = -94.337
+Location-->  x = 65 y = 50
+time = 86
+    "pinpog_num = "    "5"    "oscilation_rate = "    "0.35714"
+
+    "total handover = "    "14"
+
+Handover Margin = 2
+RSP = -94.2732
+Location-->  x = 64 y = 50
+time = 87
+    "pinpog_num = "    "5"    "oscilation_rate = "    "0.35714"
+
+    "total handover = "    "14"
+
+Handover Margin = 2
+RSP = -95.2127
+Location-->  x = 63 y = 50
+time = 88
+    "pinpog_num = "    "5"    "oscilation_rate = "    "0.35714"
+
+    "total handover = "    "14"
+
+Handover Margin = 2
+RSP = -95.1559
+Location-->  x = 62 y = 50
+time = 89
+    "pinpog_num = "    "5"    "oscilation_rate = "    "0.33333"
+
+    "total handover = "    "15"
+
+Handover Margin = 2
+RSP = -90.1028
+Location-->  x = 61 y = 50
+time = 90
+    "pinpog_num = "    "5"    "oscilation_rate = "    "0.3125"
+
+    "total handover = "    "16"
+
+Handover Margin = 2
+RSP = -91.0535
+Location-->  x = 60 y = 50
+time = 91
+    "pinpog_num = "    "6"    "oscilation_rate = "    "0.375"
+
+    "total handover = "    "16"
+
+Handover Margin = 2
+RSP = -92.008
+Location-->  x = 59 y = 50
+time = 92
+    "pinpog_num = "    "6"    "oscilation_rate = "    "0.375"
+
+    "total handover = "    "16"
+
+Handover Margin = 2
+RSP = -90.9666
+Location-->  x = 58 y = 50
+time = 93
+    "pinpog_num = "    "6"    "oscilation_rate = "    "0.375"
+
+    "total handover = "    "16"
+
+Handover Margin = 2
+RSP = -89.9293
+Location-->  x = 57 y = 50
+time = 94
+    "pinpog_num = "    "6"    "oscilation_rate = "    "0.375"
+
+    "total handover = "    "16"
+
+Handover Margin = 2
+RSP = -94.8962
+Location-->  x = 56 y = 50
+time = 95
+    "pinpog_num = "    "6"    "oscilation_rate = "    "0.375"
+
+    "total handover = "    "16"
+
+Handover Margin = 2
+RSP = -94.8673
+Location-->  x = 55 y = 50
+time = 96
+    "pinpog_num = "    "6"    "oscilation_rate = "    "0.375"
+
+    "total handover = "    "16"
+
+Handover Margin = 2
+RSP = -89.8428
+Location-->  x = 54 y = 50
+time = 97
+    "pinpog_num = "    "6"    "oscilation_rate = "    "0.375"
+
+    "total handover = "    "16"
+
+Handover Margin = 2
+RSP = -93.8226
+Location-->  x = 53 y = 50
+time = 98
+    "pinpog_num = "    "6"    "oscilation_rate = "    "0.375"
+
+    "total handover = "    "16"
+
+Handover Margin = 2
+RSP = -92.8069
+Location-->  x = 52 y = 50
+time = 99
+    "pinpog_num = "    "6"    "oscilation_rate = "    "0.375"
+
+    "total handover = "    "16"
+
+Handover Margin = 2
+RSP = -92.7956
+Location-->  x = 51 y = 50
+time = 100
+    "pinpog_num = "    "6"    "oscilation_rate = "    "0.375"
+
+    "total handover = "    "16"
+
+Handover Margin = 2
+RSP = -92.7889
+Location-->  x = 50 y = 50
+time = 101
+    "pinpog_num = "    "6"    "oscilation_rate = "    "0.35294"
+
+    "total handover = "    "17"
+
+Handover Margin = 2
+RSP = -91.7866
+Location-->  x = 50 y = 51
+time = 102
+    "pinpog_num = "    "6"    "oscilation_rate = "    "0.35294"
+
+    "total handover = "    "17"
+
+Handover Margin = 2
+RSP = -92.7866
+Location-->  x = 50 y = 52
+time = 103
+    "pinpog_num = "    "6"    "oscilation_rate = "    "0.35294"
+
+    "total handover = "    "17"
+
+Handover Margin = 2
+RSP = -92.7866
+Location-->  x = 50 y = 53
+time = 104
+    "pinpog_num = "    "6"    "oscilation_rate = "    "0.35294"
+
+    "total handover = "    "17"
+
+Handover Margin = 2
+RSP = -90.7866
+Location-->  x = 50 y = 54
+time = 105
+    "pinpog_num = "    "6"    "oscilation_rate = "    "0.35294"
+
+    "total handover = "    "17"
+
+Handover Margin = 2
+RSP = -92.7866
+Location-->  x = 50 y = 55
+time = 106
+    "pinpog_num = "    "6"    "oscilation_rate = "    "0.33333"
+
+    "total handover = "    "18"
+
+Handover Margin = 2
+RSP = -91.7866
+Location-->  x = 50 y = 56
+time = 107
+    "pinpog_num = "    "6"    "oscilation_rate = "    "0.33333"
+
+    "total handover = "    "18"
+
+Handover Margin = 2
+RSP = -92.7866
+Location-->  x = 50 y = 57
+time = 108
+    "pinpog_num = "    "6"    "oscilation_rate = "    "0.33333"
+
+    "total handover = "    "18"
+
+Handover Margin = 2
+RSP = -93.7866
+Location-->  x = 50 y = 58
+time = 109
+    "pinpog_num = "    "6"    "oscilation_rate = "    "0.33333"
+
+    "total handover = "    "18"
+
+Handover Margin = 2
+RSP = -88.7866
+Location-->  x = 50 y = 59
+time = 110
+    "pinpog_num = "    "6"    "oscilation_rate = "    "0.33333"
+
+    "total handover = "    "18"
+
+Handover Margin = 2
+RSP = -95.7866
+Location-->  x = 50 y = 60
+time = 111
+    "pinpog_num = "    "6"    "oscilation_rate = "    "0.33333"
+
+    "total handover = "    "18"
+
+Handover Margin = 2
+RSP = -92.7866
+Location-->  x = 50 y = 61
+time = 112
+    "pinpog_num = "    "6"    "oscilation_rate = "    "0.33333"
+
+    "total handover = "    "18"
+
+Handover Margin = 2
+RSP = -89.7866
+Location-->  x = 50 y = 62
+time = 113
+    "pinpog_num = "    "6"    "oscilation_rate = "    "0.33333"
+
+    "total handover = "    "18"
+
+Handover Margin = 2
+RSP = -93.7866
+Location-->  x = 50 y = 63
+time = 114
+    "pinpog_num = "    "6"    "oscilation_rate = "    "0.33333"
+
+    "total handover = "    "18"
+
+Handover Margin = 2
+RSP = -90.7866
+Location-->  x = 50 y = 64
+time = 115
+    "pinpog_num = "    "6"    "oscilation_rate = "    "0.31579"
+
+    "total handover = "    "19"
+
+Handover Margin = 2
+RSP = -90.7866
+Location-->  x = 50 y = 65
+time = 116
+    "pinpog_num = "    "6"    "oscilation_rate = "    "0.31579"
+
+    "total handover = "    "19"
+
+Handover Margin = 2
+RSP = -93.7866
+Location-->  x = 50 y = 66
+time = 117
+    "pinpog_num = "    "6"    "oscilation_rate = "    "0.31579"
+
+    "total handover = "    "19"
+
+Handover Margin = 2
+RSP = -94.7866
+Location-->  x = 50 y = 67
+time = 118
+    "pinpog_num = "    "6"    "oscilation_rate = "    "0.31579"
+
+    "total handover = "    "19"
+
+Handover Margin = 2
+RSP = -93.7866
+Location-->  x = 50 y = 68
+time = 119
+    "pinpog_num = "    "6"    "oscilation_rate = "    "0.31579"
+
+    "total handover = "    "19"
+
+Handover Margin = 2
+RSP = -91.7866
+Location-->  x = 50 y = 69
+time = 120
+    "pinpog_num = "    "6"    "oscilation_rate = "    "0.31579"
+
+    "total handover = "    "19"
+
+Handover Margin = 2
+RSP = -91.7866
+Location-->  x = 50 y = 70
+time = 121
+    "pinpog_num = "    "6"    "oscilation_rate = "    "0.3"
+
+    "total handover = "    "20"
+
+Handover Margin = 2
+RSP = -89.7866
+Location-->  x = 50 y = 71
+time = 122
+    "pinpog_num = "    "6"    "oscilation_rate = "    "0.28571"
+
+    "total handover = "    "21"
+
+Handover Margin = 2
+RSP = -91.7866
+Location-->  x = 50 y = 72
+time = 123
+    "pinpog_num = "    "7"    "oscilation_rate = "    "0.33333"
+
+    "total handover = "    "21"
+
+Handover Margin = 2
+RSP = -89.7866
+Location-->  x = 50 y = 73
+time = 124
+    "pinpog_num = "    "7"    "oscilation_rate = "    "0.33333"
+
+    "total handover = "    "21"
+
+Handover Margin = 2
+RSP = -91.7866
+Location-->  x = 50 y = 74
+time = 125
+    "pinpog_num = "    "7"    "oscilation_rate = "    "0.33333"
+
+    "total handover = "    "21"
+
+Handover Margin = 2
+RSP = -93.7866
+Location-->  x = 50 y = 75
+time = 126
+    "pinpog_num = "    "7"    "oscilation_rate = "    "0.33333"
+
+    "total handover = "    "21"
+
+Handover Margin = 2
+RSP = -91.7866
+Location-->  x = 49 y = 75
+time = 127
+    "pinpog_num = "    "7"    "oscilation_rate = "    "0.33333"
+
+    "total handover = "    "21"
+
+Handover Margin = 2
+RSP = -93.7889
+Location-->  x = 48 y = 75
+time = 128
+    "pinpog_num = "    "7"    "oscilation_rate = "    "0.33333"
+
+    "total handover = "    "21"
+
+Handover Margin = 2
+RSP = -90.7956
+Location-->  x = 47 y = 75
+time = 129
+    "pinpog_num = "    "7"    "oscilation_rate = "    "0.31818"
+
+    "total handover = "    "22"
+
+Handover Margin = 2
+RSP = -89.8069
+Location-->  x = 46 y = 75
+time = 130
+    "pinpog_num = "    "7"    "oscilation_rate = "    "0.30435"
+
+    "total handover = "    "23"
+
+Handover Margin = 2
+RSP = -89.8226
+Location-->  x = 45 y = 75
+time = 131
+    "pinpog_num = "    "8"    "oscilation_rate = "    "0.34783"
+
+    "total handover = "    "23"
+
+Handover Margin = 2
+RSP = -90.8428
+Location-->  x = 44 y = 75
+time = 132
+    "pinpog_num = "    "9"    "oscilation_rate = "    "0.375"
+
+    "total handover = "    "24"
+
+Handover Margin = 2
+RSP = -90.8673
+Location-->  x = 43 y = 75
+time = 133
+    "pinpog_num = "    "9"    "oscilation_rate = "    "0.375"
+
+    "total handover = "    "24"
+
+Handover Margin = 2
+RSP = -92.8962
+Location-->  x = 42 y = 75
+time = 134
+    "pinpog_num = "    "9"    "oscilation_rate = "    "0.375"
+
+    "total handover = "    "24"
+
+Handover Margin = 2
+RSP = -93.9293
+Location-->  x = 41 y = 75
+time = 135
+    "pinpog_num = "    "9"    "oscilation_rate = "    "0.36"
+
+    "total handover = "    "25"
+
+Handover Margin = 2
+RSP = -88.9666
+Location-->  x = 40 y = 75
+time = 136
+    "pinpog_num = "    "9"    "oscilation_rate = "    "0.36"
+
+    "total handover = "    "25"
+
+Handover Margin = 2
+RSP = -94.008
+Location-->  x = 39 y = 75
+time = 137
+    "pinpog_num = "    "9"    "oscilation_rate = "    "0.36"
+
+    "total handover = "    "25"
+
+Handover Margin = 2
+RSP = -93.0535
+Location-->  x = 38 y = 75
+time = 138
+    "pinpog_num = "    "9"    "oscilation_rate = "    "0.36"
+
+    "total handover = "    "25"
+
+Handover Margin = 2
+RSP = -94.1028
+Location-->  x = 37 y = 75
+time = 139
+    "pinpog_num = "    "9"    "oscilation_rate = "    "0.36"
+
+    "total handover = "    "25"
+
+Handover Margin = 2
+RSP = -90.1559
+Location-->  x = 36 y = 75
+time = 140
+    "pinpog_num = "    "9"    "oscilation_rate = "    "0.36"
+
+    "total handover = "    "25"
+
+Handover Margin = 2
+RSP = -94.2127
+Location-->  x = 35 y = 75
+time = 141
+    "pinpog_num = "    "9"    "oscilation_rate = "    "0.36"
+
+    "total handover = "    "25"
+
+Handover Margin = 2
+RSP = -93.2732
+Location-->  x = 34 y = 75
+time = 142
+    "pinpog_num = "    "9"    "oscilation_rate = "    "0.36"
+
+    "total handover = "    "25"
+
+Handover Margin = 2
+RSP = -94.337
+Location-->  x = 33 y = 75
+time = 143
+    "pinpog_num = "    "9"    "oscilation_rate = "    "0.36"
+
+    "total handover = "    "25"
+
+Handover Margin = 2
+RSP = -94.4042
+Location-->  x = 32 y = 75
+time = 144
+    "pinpog_num = "    "9"    "oscilation_rate = "    "0.36"
+
+    "total handover = "    "25"
+
+Handover Margin = 2
+RSP = -92.4746
+Location-->  x = 31 y = 75
+time = 145
+    "pinpog_num = "    "9"    "oscilation_rate = "    "0.36"
+
+    "total handover = "    "25"
+
+Handover Margin = 2
+RSP = -91.5481
+Location-->  x = 30 y = 75
+time = 146
+    "pinpog_num = "    "9"    "oscilation_rate = "    "0.36"
+
+    "total handover = "    "25"
+
+Handover Margin = 2
+RSP = -93.6246
+Location-->  x = 29 y = 75
+time = 147
+    "pinpog_num = "    "9"    "oscilation_rate = "    "0.36"
+
+    "total handover = "    "25"
+
+Handover Margin = 2
+RSP = -94.7038
+Location-->  x = 28 y = 75
+time = 148
+    "pinpog_num = "    "9"    "oscilation_rate = "    "0.36"
+
+    "total handover = "    "25"
+
+Handover Margin = 2
+RSP = -91.7858
+Location-->  x = 27 y = 75
+time = 149
+    "pinpog_num = "    "9"    "oscilation_rate = "    "0.36"
+
+    "total handover = "    "25"
+
+Handover Margin = 2
+RSP = -92.8703
+Location-->  x = 26 y = 75
+time = 150
+    "pinpog_num = "    "9"    "oscilation_rate = "    "0.36"
+
+    "total handover = "    "25"
+
+Handover Margin = 2
+RSP = -94.9572
+Location-->  x = 25 y = 75
+time = 151
+    "pinpog_num = "    "9"    "oscilation_rate = "    "0.36"
+
+    "total handover = "    "25"
+
+Handover Margin = 2
+RSP = -94.0464
+Location-->  x = 25 y = 76
+time = 152
+    "pinpog_num = "    "9"    "oscilation_rate = "    "0.36"
+
+    "total handover = "    "25"
+
+Handover Margin = 2
+RSP = -94.0464
+Location-->  x = 25 y = 77
+time = 153
+    "pinpog_num = "    "9"    "oscilation_rate = "    "0.34615"
+
+    "total handover = "    "26"
+
+Handover Margin = 2
+RSP = -90.0464
+Location-->  x = 25 y = 78
+time = 154
+    "pinpog_num = "    "9"    "oscilation_rate = "    "0.33333"
+
+    "total handover = "    "27"
+
+Handover Margin = 2
+RSP = -92.0464
+Location-->  x = 25 y = 79
+time = 155
+    "pinpog_num = "    "10"    "oscilation_rate = "    "0.37037"
+
+    "total handover = "    "27"
+
+Handover Margin = 2
+RSP = -96.0464
+Location-->  x = 25 y = 80
+time = 156
+    "pinpog_num = "    "10"    "oscilation_rate = "    "0.37037"
+
+    "total handover = "    "27"
+
+Handover Margin = 2
+RSP = -94.0464
+Location-->  x = 25 y = 81
+time = 157
+    "pinpog_num = "    "10"    "oscilation_rate = "    "0.37037"
+
+    "total handover = "    "27"
+
+Handover Margin = 2
+RSP = -95.0464
+Location-->  x = 25 y = 82
+time = 158
+    "pinpog_num = "    "10"    "oscilation_rate = "    "0.35714"
+
+    "total handover = "    "28"
+
+Handover Margin = 2
+RSP = -91.0464
+Location-->  x = 25 y = 83
+time = 159
+    "pinpog_num = "    "10"    "oscilation_rate = "    "0.35714"
+
+    "total handover = "    "28"
+
+Handover Margin = 2
+RSP = -92.0464
+Location-->  x = 25 y = 84
+time = 160
+    "pinpog_num = "    "10"    "oscilation_rate = "    "0.35714"
+
+    "total handover = "    "28"
+
+Handover Margin = 2
+RSP = -93.0464
+Location-->  x = 25 y = 85
+time = 161
+    "pinpog_num = "    "10"    "oscilation_rate = "    "0.35714"
+
+    "total handover = "    "28"
+
+Handover Margin = 2
+RSP = -96.0464
+Location-->  x = 25 y = 86
+time = 162
+    "pinpog_num = "    "10"    "oscilation_rate = "    "0.35714"
+
+    "total handover = "    "28"
+
+Handover Margin = 2
+RSP = -95.0464
+Location-->  x = 25 y = 87
+time = 163
+    "pinpog_num = "    "10"    "oscilation_rate = "    "0.35714"
+
+    "total handover = "    "28"
+
+Handover Margin = 2
+RSP = -96.0464
+Location-->  x = 25 y = 88
+time = 164
+    "pinpog_num = "    "10"    "oscilation_rate = "    "0.35714"
+
+    "total handover = "    "28"
+
+Handover Margin = 2
+RSP = -93.0464
+Location-->  x = 25 y = 89
+time = 165
+    "pinpog_num = "    "10"    "oscilation_rate = "    "0.34483"
+
+    "total handover = "    "29"
+
+Handover Margin = 2
+RSP = -93.0464
+Location-->  x = 25 y = 90
+time = 166
+    "pinpog_num = "    "10"    "oscilation_rate = "    "0.34483"
+
+    "total handover = "    "29"
+
+Handover Margin = 2
+RSP = -96.0464
+Location-->  x = 25 y = 91
+time = 167
+    "pinpog_num = "    "10"    "oscilation_rate = "    "0.34483"
+
+    "total handover = "    "29"
+
+Handover Margin = 2
+RSP = -94.0464
+Location-->  x = 25 y = 92
+time = 168
+    "pinpog_num = "    "10"    "oscilation_rate = "    "0.34483"
+
+    "total handover = "    "29"
+
+Handover Margin = 2
+RSP = -96.0464
+Location-->  x = 25 y = 93
+time = 169
+    "pinpog_num = "    "10"    "oscilation_rate = "    "0.34483"
+
+    "total handover = "    "29"
+
+Handover Margin = 2
+RSP = -93.0464
+Location-->  x = 25 y = 94
+time = 170
+    "pinpog_num = "    "10"    "oscilation_rate = "    "0.34483"
+
+    "total handover = "    "29"
+
+Handover Margin = 2
+RSP = -92.0464
+Location-->  x = 25 y = 95
+time = 171
+    "pinpog_num = "    "10"    "oscilation_rate = "    "0.34483"
+
+    "total handover = "    "29"
+
+Handover Margin = 2
+RSP = -98.0464
+Location-->  x = 25 y = 96
+time = 172
+    "pinpog_num = "    "10"    "oscilation_rate = "    "0.34483"
+
+    "total handover = "    "29"
+
+Handover Margin = 2
+RSP = -95.0464
+Location-->  x = 25 y = 97
+time = 173
+    "pinpog_num = "    "10"    "oscilation_rate = "    "0.34483"
+
+    "total handover = "    "29"
+
+Handover Margin = 2
+RSP = -92.0464
+Location-->  x = 25 y = 98
+time = 174
+    "pinpog_num = "    "10"    "oscilation_rate = "    "0.34483"
+
+    "total handover = "    "29"
+
+Handover Margin = 2
+RSP = -94.0464
+Location-->  x = 25 y = 99
+time = 175
+    "pinpog_num = "    "10"    "oscilation_rate = "    "0.34483"
+
+    "total handover = "    "29"
+
+Handover Margin = 2
+RSP = -93.0464
+Location-->  x = 25 y = 100
+time = 176
+    "pinpog_num = "    "10"    "oscilation_rate = "    "0.34483"
+
+    "total handover = "    "29"
+
+Handover Margin = 2
+RSP = -94.0464
+Location-->  x = 24 y = 100
+time = 177
+    "pinpog_num = "    "10"    "oscilation_rate = "    "0.33333"
+
+    "total handover = "    "30"
+
+Handover Margin = 2
+RSP = -92.1378
+Location-->  x = 23 y = 100
+time = 178
+    "pinpog_num = "    "10"    "oscilation_rate = "    "0.33333"
+
+    "total handover = "    "30"
+
+Handover Margin = 2
+RSP = -92.2313
+Location-->  x = 22 y = 100
+time = 179
+    "pinpog_num = "    "10"    "oscilation_rate = "    "0.33333"
+
+    "total handover = "    "30"
+
+Handover Margin = 2
+RSP = -93.3266
+Location-->  x = 21 y = 100
+time = 180
+    "pinpog_num = "    "10"    "oscilation_rate = "    "0.32258"
+
+    "total handover = "    "31"
+
+Handover Margin = 2
+RSP = -92.4238
+Location-->  x = 20 y = 100
+time = 181
+    "pinpog_num = "    "10"    "oscilation_rate = "    "0.32258"
+
+    "total handover = "    "31"
+
+Handover Margin = 2
+RSP = -93.5226
+Location-->  x = 19 y = 100
+time = 182
+    "pinpog_num = "    "10"    "oscilation_rate = "    "0.32258"
+
+    "total handover = "    "31"
+
+Handover Margin = 2
+RSP = -91.623
+Location-->  x = 18 y = 100
+time = 183
+    "pinpog_num = "    "10"    "oscilation_rate = "    "0.32258"
+
+    "total handover = "    "31"
+
+Handover Margin = 2
+RSP = -94.7249
+Location-->  x = 17 y = 100
+time = 184
+    "pinpog_num = "    "10"    "oscilation_rate = "    "0.32258"
+
+    "total handover = "    "31"
+
+Handover Margin = 2
+RSP = -95.828
+Location-->  x = 16 y = 100
+time = 185
+    "pinpog_num = "    "10"    "oscilation_rate = "    "0.32258"
+
+    "total handover = "    "31"
+
+Handover Margin = 2
+RSP = -95.9325
+Location-->  x = 15 y = 100
+time = 186
+    "pinpog_num = "    "10"    "oscilation_rate = "    "0.32258"
+
+    "total handover = "    "31"
+
+Handover Margin = 2
+RSP = -94.038
+Location-->  x = 14 y = 100
+time = 187
+    "pinpog_num = "    "10"    "oscilation_rate = "    "0.32258"
+
+    "total handover = "    "31"
+
+Handover Margin = 2
+RSP = -97.1446
+Location-->  x = 13 y = 100
+time = 188
+    "pinpog_num = "    "10"    "oscilation_rate = "    "0.32258"
+
+    "total handover = "    "31"
+
+Handover Margin = 2
+RSP = -96.2522
+Location-->  x = 12 y = 100
+time = 189
+    "pinpog_num = "    "10"    "oscilation_rate = "    "0.32258"
+
+    "total handover = "    "31"
+
+Handover Margin = 2
+RSP = -94.3606
+Location-->  x = 11 y = 100
+time = 190
+    "pinpog_num = "    "10"    "oscilation_rate = "    "0.32258"
+
+    "total handover = "    "31"
+
+Handover Margin = 2
+RSP = -93.4697
+Location-->  x = 10 y = 100
+time = 191
+    "pinpog_num = "    "10"    "oscilation_rate = "    "0.3125"
+
+    "total handover = "    "32"
+
+Handover Margin = 2
+RSP = -91.5796
+Location-->  x = 9 y = 100
+time = 192
+    "pinpog_num = "    "10"    "oscilation_rate = "    "0.30303"
+
+    "total handover = "    "33"
+
+Handover Margin = 2
+RSP = -93.69
+Location-->  x = 8 y = 100
+time = 193
+    "pinpog_num = "    "11"    "oscilation_rate = "    "0.33333"
+
+    "total handover = "    "33"
+
+Handover Margin = 2
+RSP = -95.801
+Location-->  x = 7 y = 100
+time = 194
+    "pinpog_num = "    "11"    "oscilation_rate = "    "0.33333"
+
+    "total handover = "    "33"
+
+Handover Margin = 2
+RSP = -96.9125
+Location-->  x = 6 y = 100
+time = 195
+    "pinpog_num = "    "11"    "oscilation_rate = "    "0.33333"
+
+    "total handover = "    "33"
+
+Handover Margin = 2
+RSP = -96.0243
+Location-->  x = 5 y = 100
+time = 196
+    "pinpog_num = "    "11"    "oscilation_rate = "    "0.33333"
+
+    "total handover = "    "33"
+
+Handover Margin = 2
+RSP = -95.1364
+Location-->  x = 4 y = 100
+time = 197
+    "pinpog_num = "    "11"    "oscilation_rate = "    "0.32353"
+
+    "total handover = "    "34"
+
+Handover Margin = 2
+RSP = -95.1512
+Location-->  x = 3 y = 100
+time = 198
+    "pinpog_num = "    "11"    "oscilation_rate = "    "0.31429"
+
+    "total handover = "    "35"
+
+Handover Margin = 2
+RSP = -94.3615
+Location-->  x = 2 y = 100
+time = 199
+    "pinpog_num = "    "12"    "oscilation_rate = "    "0.33333"
+
+    "total handover = "    "36"
+
+Handover Margin = 2
+RSP = -93.9258
+Location-->  x = 1 y = 100
+time = 200
+    "pinpog_num = "    "12"    "oscilation_rate = "    "0.32432"
+
+    "total handover = "    "37"
+
+Handover Margin = 2
+RSP = -94.5871
+Location-->  x = 0 y = 100
+time = 201
+    "pinpog_num = "    "12"    "oscilation_rate = "    "0.32432"
+
+    "total handover = "    "37"
+
+Handover Margin = 2
+RSP = -97.7
+Location-->  x = 0 y = 99
+time = 202
+    "pinpog_num = "    "12"    "oscilation_rate = "    "0.32432"
+
+    "total handover = "    "37"
+
+Handover Margin = 2
+RSP = -94.7
+Location-->  x = 0 y = 98
+time = 203
+    "pinpog_num = "    "12"    "oscilation_rate = "    "0.31579"
+
+    "total handover = "    "38"
+
+Handover Margin = 2
+RSP = -93.7
+Location-->  x = 0 y = 97
+time = 204
+    "pinpog_num = "    "12"    "oscilation_rate = "    "0.31579"
+
+    "total handover = "    "38"
+
+Handover Margin = 2
+RSP = -97.7
+Location-->  x = 0 y = 96
+time = 205
+    "pinpog_num = "    "12"    "oscilation_rate = "    "0.30769"
+
+    "total handover = "    "39"
+
+Handover Margin = 2
+RSP = -94.7
+Location-->  x = 0 y = 95
+time = 206
+    "pinpog_num = "    "12"    "oscilation_rate = "    "0.30769"
+
+    "total handover = "    "39"
+
+Handover Margin = 2
+RSP = -95.7
+Location-->  x = 0 y = 94
+time = 207
+    "pinpog_num = "    "12"    "oscilation_rate = "    "0.30769"
+
+    "total handover = "    "39"
+
+Handover Margin = 2
+RSP = -96.7
+Location-->  x = 0 y = 93
+time = 208
+    "pinpog_num = "    "12"    "oscilation_rate = "    "0.30769"
+
+    "total handover = "    "39"
+
+Handover Margin = 2
+RSP = -94.7
+Location-->  x = 0 y = 92
+time = 209
+    "pinpog_num = "    "12"    "oscilation_rate = "    "0.30769"
+
+    "total handover = "    "39"
+
+Handover Margin = 2
+RSP = -93.7
+Location-->  x = 0 y = 91
+time = 210
+    "pinpog_num = "    "12"    "oscilation_rate = "    "0.30769"
+
+    "total handover = "    "39"
+
+Handover Margin = 2
+RSP = -95.7
+Location-->  x = 0 y = 90
+time = 211
+    "pinpog_num = "    "12"    "oscilation_rate = "    "0.30769"
+
+    "total handover = "    "39"
+
+Handover Margin = 2
+RSP = -95.7
+Location-->  x = 0 y = 89
+time = 212
+    "pinpog_num = "    "12"    "oscilation_rate = "    "0.30769"
+
+    "total handover = "    "39"
+
+Handover Margin = 2
+RSP = -94.7
+Location-->  x = 0 y = 88
+time = 213
+    "pinpog_num = "    "12"    "oscilation_rate = "    "0.3"
+
+    "total handover = "    "40"
+
+Handover Margin = 2
+RSP = -93.7
+Location-->  x = 0 y = 87
+time = 214
+    "pinpog_num = "    "12"    "oscilation_rate = "    "0.3"
+
+    "total handover = "    "40"
+
+Handover Margin = 2
+RSP = -97.7
+Location-->  x = 0 y = 86
+time = 215
+    "pinpog_num = "    "13"    "oscilation_rate = "    "0.31707"
+
+    "total handover = "    "41"
+
+Handover Margin = 2
+RSP = -93.7
+Location-->  x = 0 y = 85
+time = 216
+    "pinpog_num = "    "13"    "oscilation_rate = "    "0.31707"
+
+    "total handover = "    "41"
+
+Handover Margin = 2
+RSP = -97.7
+Location-->  x = 0 y = 84
+time = 217
+    "pinpog_num = "    "13"    "oscilation_rate = "    "0.31707"
+
+    "total handover = "    "41"
+
+Handover Margin = 2
+RSP = -93.7
+Location-->  x = 0 y = 83
+time = 218
+    "pinpog_num = "    "13"    "oscilation_rate = "    "0.31707"
+
+    "total handover = "    "41"
+
+Handover Margin = 2
+RSP = -97.7
+Location-->  x = 0 y = 82
+time = 219
+    "pinpog_num = "    "13"    "oscilation_rate = "    "0.31707"
+
+    "total handover = "    "41"
+
+Handover Margin = 2
+RSP = -97.7
+Location-->  x = 0 y = 81
+time = 220
+    "pinpog_num = "    "13"    "oscilation_rate = "    "0.31707"
+
+    "total handover = "    "41"
+
+Handover Margin = 2
+RSP = -97.7
+Location-->  x = 0 y = 80
+time = 221
+    "pinpog_num = "    "13"    "oscilation_rate = "    "0.31707"
+
+    "total handover = "    "41"
+
+Handover Margin = 2
+RSP = -96.7
+Location-->  x = 0 y = 79
+time = 222
+    "pinpog_num = "    "13"    "oscilation_rate = "    "0.31707"
+
+    "total handover = "    "41"
+
+Handover Margin = 2
+RSP = -95.7
+Location-->  x = 0 y = 78
+time = 223
+    "pinpog_num = "    "13"    "oscilation_rate = "    "0.30952"
+
+    "total handover = "    "42"
+
+Handover Margin = 2
+RSP = -94.7
+Location-->  x = 0 y = 77
+time = 224
+    "pinpog_num = "    "13"    "oscilation_rate = "    "0.30952"
+
+    "total handover = "    "42"
+
+Handover Margin = 2
+RSP = -97.7
+Location-->  x = 0 y = 76
+time = 225
+    "pinpog_num = "    "13"    "oscilation_rate = "    "0.30952"
+
+    "total handover = "    "42"
+
+Handover Margin = 2
+RSP = -93.7
+Location-->  x = 0 y = 75
+time = 226
+    "pinpog_num = "    "13"    "oscilation_rate = "    "0.30233"
+
+    "total handover = "    "43"
+
+Handover Margin = 2
+RSP = -95.7
+Location-->  x = 1 y = 75
+time = 227
+    "pinpog_num = "    "13"    "oscilation_rate = "    "0.30233"
+
+    "total handover = "    "43"
+
+Handover Margin = 2
+RSP = -95.5871
+Location-->  x = 2 y = 75
+time = 228
+    "pinpog_num = "    "13"    "oscilation_rate = "    "0.29545"
+
+    "total handover = "    "44"
+
+Handover Margin = 2
+RSP = -94.4742
+Location-->  x = 3 y = 75
+time = 229
+    "pinpog_num = "    "13"    "oscilation_rate = "    "0.29545"
+
+    "total handover = "    "44"
+
+Handover Margin = 2
+RSP = -95.3615
+Location-->  x = 4 y = 75
+time = 230
+    "pinpog_num = "    "13"    "oscilation_rate = "    "0.29545"
+
+    "total handover = "    "44"
+
+Handover Margin = 2
+RSP = -94.2488
+Location-->  x = 5 y = 75
+time = 231
+    "pinpog_num = "    "13"    "oscilation_rate = "    "0.28889"
+
+    "total handover = "    "45"
+
+Handover Margin = 2
+RSP = -94.2637
+Location-->  x = 6 y = 75
+time = 232
+    "pinpog_num = "    "13"    "oscilation_rate = "    "0.28261"
+
+    "total handover = "    "46"
+
+Handover Margin = 2
+RSP = -94.0243
+Location-->  x = 7 y = 75
+time = 233
+    "pinpog_num = "    "13"    "oscilation_rate = "    "0.28261"
+
+    "total handover = "    "46"
+
+Handover Margin = 2
+RSP = -93.9125
+Location-->  x = 8 y = 75
+time = 234
+    "pinpog_num = "    "13"    "oscilation_rate = "    "0.2766"
+
+    "total handover = "    "47"
+
+Handover Margin = 2
+RSP = -94.801
+Location-->  x = 9 y = 75
+time = 235
+    "pinpog_num = "    "13"    "oscilation_rate = "    "0.27083"
+
+    "total handover = "    "48"
+
+Handover Margin = 2
+RSP = -94.69
+Location-->  x = 10 y = 75
+time = 236
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.29167"
+
+    "total handover = "    "48"
+
+Handover Margin = 2
+RSP = -97.5796
+Location-->  x = 11 y = 75
+time = 237
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.29167"
+
+    "total handover = "    "48"
+
+Handover Margin = 2
+RSP = -94.4697
+Location-->  x = 12 y = 75
+time = 238
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.29167"
+
+    "total handover = "    "48"
+
+Handover Margin = 2
+RSP = -93.3606
+Location-->  x = 13 y = 75
+time = 239
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.29167"
+
+    "total handover = "    "48"
+
+Handover Margin = 2
+RSP = -96.2522
+Location-->  x = 14 y = 75
+time = 240
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.29167"
+
+    "total handover = "    "48"
+
+Handover Margin = 2
+RSP = -95.1446
+Location-->  x = 15 y = 75
+time = 241
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.29167"
+
+    "total handover = "    "48"
+
+Handover Margin = 2
+RSP = -95.038
+Location-->  x = 16 y = 75
+time = 242
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.29167"
+
+    "total handover = "    "48"
+
+Handover Margin = 2
+RSP = -94.9325
+Location-->  x = 17 y = 75
+time = 243
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.29167"
+
+    "total handover = "    "48"
+
+Handover Margin = 2
+RSP = -92.828
+Location-->  x = 18 y = 75
+time = 244
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.29167"
+
+    "total handover = "    "48"
+
+Handover Margin = 2
+RSP = -94.7249
+Location-->  x = 19 y = 75
+time = 245
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.29167"
+
+    "total handover = "    "48"
+
+Handover Margin = 2
+RSP = -96.623
+Location-->  x = 20 y = 75
+time = 246
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.29167"
+
+    "total handover = "    "48"
+
+Handover Margin = 2
+RSP = -93.5226
+Location-->  x = 21 y = 75
+time = 247
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.29167"
+
+    "total handover = "    "48"
+
+Handover Margin = 2
+RSP = -94.4238
+Location-->  x = 22 y = 75
+time = 248
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.29167"
+
+    "total handover = "    "48"
+
+Handover Margin = 2
+RSP = -93.3266
+Location-->  x = 23 y = 75
+time = 249
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.29167"
+
+    "total handover = "    "48"
+
+Handover Margin = 2
+RSP = -95.2313
+Location-->  x = 24 y = 75
+time = 250
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.28571"
+
+    "total handover = "    "49"
+
+Handover Margin = 2
+RSP = -91.1378
+Location-->  x = 25 y = 75
+time = 251
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.28571"
+
+    "total handover = "    "49"
+
+Handover Margin = 2
+RSP = -93.0464
+Location-->  x = 25 y = 74
+time = 252
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.28571"
+
+    "total handover = "    "49"
+
+Handover Margin = 2
+RSP = -94.0464
+Location-->  x = 25 y = 73
+time = 253
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.28571"
+
+    "total handover = "    "49"
+
+Handover Margin = 2
+RSP = -94.0464
+Location-->  x = 25 y = 72
+time = 254
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.28571"
+
+    "total handover = "    "49"
+
+Handover Margin = 2
+RSP = -93.0464
+Location-->  x = 25 y = 71
+time = 255
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.28571"
+
+    "total handover = "    "49"
+
+Handover Margin = 2
+RSP = -94.0464
+Location-->  x = 25 y = 70
+time = 256
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.28571"
+
+    "total handover = "    "49"
+
+Handover Margin = 2
+RSP = -93.0464
+Location-->  x = 25 y = 69
+time = 257
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.28571"
+
+    "total handover = "    "49"
+
+Handover Margin = 2
+RSP = -96.0464
+Location-->  x = 25 y = 68
+time = 258
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.28571"
+
+    "total handover = "    "49"
+
+Handover Margin = 2
+RSP = -93.0464
+Location-->  x = 25 y = 67
+time = 259
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.28571"
+
+    "total handover = "    "49"
+
+Handover Margin = 2
+RSP = -92.0464
+Location-->  x = 25 y = 66
+time = 260
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.28571"
+
+    "total handover = "    "49"
+
+Handover Margin = 2
+RSP = -91.0464
+Location-->  x = 25 y = 65
+time = 261
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.28571"
+
+    "total handover = "    "49"
+
+Handover Margin = 2
+RSP = -95.0464
+Location-->  x = 25 y = 64
+time = 262
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.28571"
+
+    "total handover = "    "49"
+
+Handover Margin = 2
+RSP = -95.0464
+Location-->  x = 25 y = 63
+time = 263
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.28571"
+
+    "total handover = "    "49"
+
+Handover Margin = 2
+RSP = -93.0464
+Location-->  x = 25 y = 62
+time = 264
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.28571"
+
+    "total handover = "    "49"
+
+Handover Margin = 2
+RSP = -94.0464
+Location-->  x = 25 y = 61
+time = 265
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.28571"
+
+    "total handover = "    "49"
+
+Handover Margin = 2
+RSP = -96.0464
+Location-->  x = 25 y = 60
+time = 266
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.28571"
+
+    "total handover = "    "49"
+
+Handover Margin = 2
+RSP = -93.0464
+Location-->  x = 25 y = 59
+time = 267
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.28"
+
+    "total handover = "    "50"
+
+Handover Margin = 2
+RSP = -92.0464
+Location-->  x = 25 y = 58
+time = 268
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.28"
+
+    "total handover = "    "50"
+
+Handover Margin = 2
+RSP = -93.0464
+Location-->  x = 25 y = 57
+time = 269
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.28"
+
+    "total handover = "    "50"
+
+Handover Margin = 2
+RSP = -94.0464
+Location-->  x = 25 y = 56
+time = 270
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.28"
+
+    "total handover = "    "50"
+
+Handover Margin = 2
+RSP = -90.0464
+Location-->  x = 25 y = 55
+time = 271
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.28"
+
+    "total handover = "    "50"
+
+Handover Margin = 2
+RSP = -93.0464
+Location-->  x = 25 y = 54
+time = 272
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.28"
+
+    "total handover = "    "50"
+
+Handover Margin = 2
+RSP = -93.0464
+Location-->  x = 25 y = 53
+time = 273
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.28"
+
+    "total handover = "    "50"
+
+Handover Margin = 2
+RSP = -96.0464
+Location-->  x = 25 y = 52
+time = 274
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.28"
+
+    "total handover = "    "50"
+
+Handover Margin = 2
+RSP = -94.0464
+Location-->  x = 25 y = 51
+time = 275
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.28"
+
+    "total handover = "    "50"
+
+Handover Margin = 2
+RSP = -91.0464
+Location-->  x = 25 y = 50
+time = 276
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.28"
+
+    "total handover = "    "50"
+
+Handover Margin = 2
+RSP = -97.0464
+Location-->  x = 26 y = 50
+time = 277
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.28"
+
+    "total handover = "    "50"
+
+Handover Margin = 2
+RSP = -92.9572
+Location-->  x = 27 y = 50
+time = 278
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.28"
+
+    "total handover = "    "50"
+
+Handover Margin = 2
+RSP = -94.8703
+Location-->  x = 28 y = 50
+time = 279
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.28"
+
+    "total handover = "    "50"
+
+Handover Margin = 2
+RSP = -95.7858
+Location-->  x = 29 y = 50
+time = 280
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.28"
+
+    "total handover = "    "50"
+
+Handover Margin = 2
+RSP = -92.7038
+Location-->  x = 30 y = 50
+time = 281
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.28"
+
+    "total handover = "    "50"
+
+Handover Margin = 2
+RSP = -91.6246
+Location-->  x = 31 y = 50
+time = 282
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.27451"
+
+    "total handover = "    "51"
+
+Handover Margin = 2
+RSP = -90.5481
+Location-->  x = 32 y = 50
+time = 283
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.27451"
+
+    "total handover = "    "51"
+
+Handover Margin = 2
+RSP = -91.4746
+Location-->  x = 33 y = 50
+time = 284
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.27451"
+
+    "total handover = "    "51"
+
+Handover Margin = 2
+RSP = -93.4042
+Location-->  x = 34 y = 50
+time = 285
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.27451"
+
+    "total handover = "    "51"
+
+Handover Margin = 2
+RSP = -96.337
+Location-->  x = 35 y = 50
+time = 286
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.27451"
+
+    "total handover = "    "51"
+
+Handover Margin = 2
+RSP = -91.2732
+Location-->  x = 36 y = 50
+time = 287
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.27451"
+
+    "total handover = "    "51"
+
+Handover Margin = 2
+RSP = -94.2127
+Location-->  x = 37 y = 50
+time = 288
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.27451"
+
+    "total handover = "    "51"
+
+Handover Margin = 2
+RSP = -92.1559
+Location-->  x = 38 y = 50
+time = 289
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.27451"
+
+    "total handover = "    "51"
+
+Handover Margin = 2
+RSP = -93.1028
+Location-->  x = 39 y = 50
+time = 290
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.27451"
+
+    "total handover = "    "51"
+
+Handover Margin = 2
+RSP = -90.0535
+Location-->  x = 40 y = 50
+time = 291
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.27451"
+
+    "total handover = "    "51"
+
+Handover Margin = 2
+RSP = -93.008
+Location-->  x = 41 y = 50
+time = 292
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.27451"
+
+    "total handover = "    "51"
+
+Handover Margin = 2
+RSP = -90.9666
+Location-->  x = 42 y = 50
+time = 293
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.26923"
+
+    "total handover = "    "52"
+
+Handover Margin = 2
+RSP = -88.9293
+Location-->  x = 43 y = 50
+time = 294
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.26923"
+
+    "total handover = "    "52"
+
+Handover Margin = 2
+RSP = -93.8962
+Location-->  x = 44 y = 50
+time = 295
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.26923"
+
+    "total handover = "    "52"
+
+Handover Margin = 2
+RSP = -92.8673
+Location-->  x = 45 y = 50
+time = 296
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.26923"
+
+    "total handover = "    "52"
+
+Handover Margin = 2
+RSP = -92.8428
+Location-->  x = 46 y = 50
+time = 297
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.26923"
+
+    "total handover = "    "52"
+
+Handover Margin = 2
+RSP = -89.8226
+Location-->  x = 47 y = 50
+time = 298
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.26923"
+
+    "total handover = "    "52"
+
+Handover Margin = 2
+RSP = -91.8069
+Location-->  x = 48 y = 50
+time = 299
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.26923"
+
+    "total handover = "    "52"
+
+Handover Margin = 2
+RSP = -91.7956
+Location-->  x = 49 y = 50
+time = 300
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.26923"
+
+    "total handover = "    "52"
+
+Handover Margin = 2
+RSP = -94.7889
+Location-->  x = 50 y = 50
+time = 301
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.26923"
+
+    "total handover = "    "52"
+
+Handover Margin = 2
+RSP = -94.7866
+Location-->  x = 50 y = 49
+time = 302
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.26923"
+
+    "total handover = "    "52"
+
+Handover Margin = 2
+RSP = -92.7866
+Location-->  x = 50 y = 48
+time = 303
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.26923"
+
+    "total handover = "    "52"
+
+Handover Margin = 2
+RSP = -89.7866
+Location-->  x = 50 y = 47
+time = 304
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.26923"
+
+    "total handover = "    "52"
+
+Handover Margin = 2
+RSP = -95.7866
+Location-->  x = 50 y = 46
+time = 305
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.26923"
+
+    "total handover = "    "52"
+
+Handover Margin = 2
+RSP = -90.7866
+Location-->  x = 50 y = 45
+time = 306
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.26923"
+
+    "total handover = "    "52"
+
+Handover Margin = 2
+RSP = -90.7866
+Location-->  x = 50 y = 44
+time = 307
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.26415"
+
+    "total handover = "    "53"
+
+Handover Margin = 2
+RSP = -89.7866
+Location-->  x = 50 y = 43
+time = 308
+    "pinpog_num = "    "14"    "oscilation_rate = "    "0.25926"
+
+    "total handover = "    "54"
+
+Handover Margin = 2
+RSP = -89.7866
+Location-->  x = 50 y = 42
+time = 309
+    "pinpog_num = "    "15"    "oscilation_rate = "    "0.27273"
+
+    "total handover = "    "55"
+
+Handover Margin = 2
+RSP = -90.7866
+Location-->  x = 50 y = 41
+time = 310
+    "pinpog_num = "    "16"    "oscilation_rate = "    "0.29091"
+
+    "total handover = "    "55"
+
+Handover Margin = 2
+RSP = -94.7866
+Location-->  x = 50 y = 40
+time = 311
+    "pinpog_num = "    "16"    "oscilation_rate = "    "0.29091"
+
+    "total handover = "    "55"
+
+Handover Margin = 2
+RSP = -93.7866
+Location-->  x = 50 y = 39
+time = 312
+    "pinpog_num = "    "16"    "oscilation_rate = "    "0.29091"
+
+    "total handover = "    "55"
+
+Handover Margin = 2
+RSP = -92.7866
+Location-->  x = 50 y = 38
+time = 313
+    "pinpog_num = "    "16"    "oscilation_rate = "    "0.29091"
+
+    "total handover = "    "55"
+
+Handover Margin = 2
+RSP = -89.7866
+Location-->  x = 50 y = 37
+time = 314
+    "pinpog_num = "    "16"    "oscilation_rate = "    "0.29091"
+
+    "total handover = "    "55"
+
+Handover Margin = 2
+RSP = -92.7866
+Location-->  x = 50 y = 36
+time = 315
+    "pinpog_num = "    "16"    "oscilation_rate = "    "0.29091"
+
+    "total handover = "    "55"
+
+Handover Margin = 2
+RSP = -91.7866
+Location-->  x = 50 y = 35
+time = 316
+    "pinpog_num = "    "16"    "oscilation_rate = "    "0.29091"
+
+    "total handover = "    "55"
+
+Handover Margin = 2
+RSP = -94.7866
+Location-->  x = 50 y = 34
+time = 317
+    "pinpog_num = "    "16"    "oscilation_rate = "    "0.29091"
+
+    "total handover = "    "55"
+
+Handover Margin = 2
+RSP = -92.7866
+Location-->  x = 50 y = 33
+time = 318
+    "pinpog_num = "    "16"    "oscilation_rate = "    "0.29091"
+
+    "total handover = "    "55"
+
+Handover Margin = 2
+RSP = -94.7866
+Location-->  x = 50 y = 32
+time = 319
+    "pinpog_num = "    "16"    "oscilation_rate = "    "0.29091"
+
+    "total handover = "    "55"
+
+Handover Margin = 2
+RSP = -92.7866
+Location-->  x = 50 y = 31
+time = 320
+    "pinpog_num = "    "16"    "oscilation_rate = "    "0.28571"
+
+    "total handover = "    "56"
+
+Handover Margin = 2
+RSP = -90.7866
+Location-->  x = 50 y = 30
+time = 321
+    "pinpog_num = "    "16"    "oscilation_rate = "    "0.28571"
+
+    "total handover = "    "56"
+
+Handover Margin = 2
+RSP = -91.7866
+Location-->  x = 50 y = 29
+time = 322
+    "pinpog_num = "    "16"    "oscilation_rate = "    "0.28571"
+
+    "total handover = "    "56"
+
+Handover Margin = 2
+RSP = -93.7866
+Location-->  x = 50 y = 28
+time = 323
+    "pinpog_num = "    "16"    "oscilation_rate = "    "0.28571"
+
+    "total handover = "    "56"
+
+Handover Margin = 2
+RSP = -89.7866
+Location-->  x = 50 y = 27
+time = 324
+    "pinpog_num = "    "16"    "oscilation_rate = "    "0.28571"
+
+    "total handover = "    "56"
+
+Handover Margin = 2
+RSP = -91.7866
+Location-->  x = 50 y = 26
+time = 325
+    "pinpog_num = "    "16"    "oscilation_rate = "    "0.28571"
+
+    "total handover = "    "56"
+
+Handover Margin = 2
+RSP = -91.7866
+Location-->  x = 50 y = 25
+time = 326
+    "pinpog_num = "    "16"    "oscilation_rate = "    "0.28571"
+
+    "total handover = "    "56"
+
+Handover Margin = 2
+RSP = -90.7866
+Location-->  x = 51 y = 25
+time = 327
+    "pinpog_num = "    "16"    "oscilation_rate = "    "0.28571"
+
+    "total handover = "    "56"
+
+Handover Margin = 2
+RSP = -91.7889
+Location-->  x = 52 y = 25
+time = 328
+    "pinpog_num = "    "16"    "oscilation_rate = "    "0.28571"
+
+    "total handover = "    "56"
+
+Handover Margin = 2
+RSP = -94.7956
+Location-->  x = 53 y = 25
+time = 329
+    "pinpog_num = "    "16"    "oscilation_rate = "    "0.28571"
+
+    "total handover = "    "56"
+
+Handover Margin = 2
+RSP = -92.8069
+Location-->  x = 54 y = 25
+time = 330
+    "pinpog_num = "    "16"    "oscilation_rate = "    "0.2807"
+
+    "total handover = "    "57"
+
+Handover Margin = 2
+RSP = -90.8226
+Location-->  x = 55 y = 25
+time = 331
+    "pinpog_num = "    "16"    "oscilation_rate = "    "0.2807"
+
+    "total handover = "    "57"
+
+Handover Margin = 2
+RSP = -94.8428
+Location-->  x = 56 y = 25
+time = 332
+    "pinpog_num = "    "16"    "oscilation_rate = "    "0.2807"
+
+    "total handover = "    "57"
+
+Handover Margin = 2
+RSP = -90.8673
+Location-->  x = 57 y = 25
+time = 333
+    "pinpog_num = "    "16"    "oscilation_rate = "    "0.2807"
+
+    "total handover = "    "57"
+
+Handover Margin = 2
+RSP = -91.8962
+Location-->  x = 58 y = 25
+time = 334
+    "pinpog_num = "    "16"    "oscilation_rate = "    "0.2807"
+
+    "total handover = "    "57"
+
+Handover Margin = 2
+RSP = -89.9293
+Location-->  x = 59 y = 25
+time = 335
+    "pinpog_num = "    "16"    "oscilation_rate = "    "0.2807"
+
+    "total handover = "    "57"
+
+Handover Margin = 2
+RSP = -88.9666
+Location-->  x = 60 y = 25
+time = 336
+    "pinpog_num = "    "16"    "oscilation_rate = "    "0.2807"
+
+    "total handover = "    "57"
+
+Handover Margin = 2
+RSP = -91.008
+Location-->  x = 61 y = 25
+time = 337
+    "pinpog_num = "    "16"    "oscilation_rate = "    "0.2807"
+
+    "total handover = "    "57"
+
+Handover Margin = 2
+RSP = -93.0535
+Location-->  x = 62 y = 25
+time = 338
+    "pinpog_num = "    "16"    "oscilation_rate = "    "0.2807"
+
+    "total handover = "    "57"
+
+Handover Margin = 2
+RSP = -92.1028
+Location-->  x = 63 y = 25
+time = 339
+    "pinpog_num = "    "16"    "oscilation_rate = "    "0.2807"
+
+    "total handover = "    "57"
+
+Handover Margin = 2
+RSP = -93.1559
+Location-->  x = 64 y = 25
+time = 340
+    "pinpog_num = "    "16"    "oscilation_rate = "    "0.27586"
+
+    "total handover = "    "58"
+
+Handover Margin = 2
+RSP = -93.2127
+Location-->  x = 65 y = 25
+time = 341
+    "pinpog_num = "    "16"    "oscilation_rate = "    "0.27586"
+
+    "total handover = "    "58"
+
+Handover Margin = 2
+RSP = -92.2732
+Location-->  x = 66 y = 25
+time = 342
+    "pinpog_num = "    "17"    "oscilation_rate = "    "0.28814"
+
+    "total handover = "    "59"
+
+Handover Margin = 2
+RSP = -92.337
+Location-->  x = 67 y = 25
+time = 343
+    "pinpog_num = "    "17"    "oscilation_rate = "    "0.28814"
+
+    "total handover = "    "59"
+
+Handover Margin = 2
+RSP = -94.4042
+Location-->  x = 68 y = 25
+time = 344
+    "pinpog_num = "    "17"    "oscilation_rate = "    "0.28814"
+
+    "total handover = "    "59"
+
+Handover Margin = 2
+RSP = -92.4746
+Location-->  x = 69 y = 25
+time = 345
+    "pinpog_num = "    "17"    "oscilation_rate = "    "0.28814"
+
+    "total handover = "    "59"
+
+Handover Margin = 2
+RSP = -92.5481
+Location-->  x = 70 y = 25
+time = 346
+    "pinpog_num = "    "17"    "oscilation_rate = "    "0.28814"
+
+    "total handover = "    "59"
+
+Handover Margin = 2
+RSP = -90.6246
+Location-->  x = 71 y = 25
+time = 347
+    "pinpog_num = "    "17"    "oscilation_rate = "    "0.28814"
+
+    "total handover = "    "59"
+
+Handover Margin = 2
+RSP = -92.7038
+Location-->  x = 72 y = 25
+time = 348
+    "pinpog_num = "    "17"    "oscilation_rate = "    "0.28814"
+
+    "total handover = "    "59"
+
+Handover Margin = 2
+RSP = -94.7858
+Location-->  x = 73 y = 25
+time = 349
+    "pinpog_num = "    "17"    "oscilation_rate = "    "0.28333"
+
+    "total handover = "    "60"
+
+Handover Margin = 2
+RSP = -92.8703
+Location-->  x = 74 y = 25
+time = 350
+    "pinpog_num = "    "17"    "oscilation_rate = "    "0.28333"
+
+    "total handover = "    "60"
+
+Handover Margin = 2
+RSP = -90.9572
+Location-->  x = 75 y = 25
+time = 351
+    "pinpog_num = "    "17"    "oscilation_rate = "    "0.28333"
+
+    "total handover = "    "60"
+
+Handover Margin = 2
+RSP = -94.0464
+Location-->  x = 75 y = 24
+time = 352
+    "pinpog_num = "    "17"    "oscilation_rate = "    "0.27869"
+
+    "total handover = "    "61"
+
+Handover Margin = 2
+RSP = -92.0464
+Location-->  x = 75 y = 23
+time = 353
+    "pinpog_num = "    "17"    "oscilation_rate = "    "0.27869"
+
+    "total handover = "    "61"
+
+Handover Margin = 2
+RSP = -93.0464
+Location-->  x = 75 y = 22
+time = 354
+    "pinpog_num = "    "17"    "oscilation_rate = "    "0.27869"
+
+    "total handover = "    "61"
+
+Handover Margin = 2
+RSP = -94.0464
+Location-->  x = 75 y = 21
+time = 355
+    "pinpog_num = "    "17"    "oscilation_rate = "    "0.27869"
+
+    "total handover = "    "61"
+
+Handover Margin = 2
+RSP = -95.0464
+Location-->  x = 75 y = 20
+time = 356
+    "pinpog_num = "    "17"    "oscilation_rate = "    "0.27869"
+
+    "total handover = "    "61"
+
+Handover Margin = 2
+RSP = -91.0464
+Location-->  x = 75 y = 19
+time = 357
+    "pinpog_num = "    "17"    "oscilation_rate = "    "0.27869"
+
+    "total handover = "    "61"
+
+Handover Margin = 2
+RSP = -93.0464
+Location-->  x = 75 y = 18
+time = 358
+    "pinpog_num = "    "17"    "oscilation_rate = "    "0.27869"
+
+    "total handover = "    "61"
+
+Handover Margin = 2
+RSP = -94.0464
+Location-->  x = 75 y = 17
+time = 359
+    "pinpog_num = "    "17"    "oscilation_rate = "    "0.27869"
+
+    "total handover = "    "61"
+
+Handover Margin = 2
+RSP = -93.0464
+Location-->  x = 75 y = 16
+time = 360
+    "pinpog_num = "    "17"    "oscilation_rate = "    "0.27869"
+
+    "total handover = "    "61"
+
+Handover Margin = 2
+RSP = -96.0464
+Location-->  x = 75 y = 15
+time = 361
+    "pinpog_num = "    "17"    "oscilation_rate = "    "0.27419"
+
+    "total handover = "    "62"
+
+Handover Margin = 2
+RSP = -91.0464
+Location-->  x = 75 y = 14
+time = 362
+    "pinpog_num = "    "17"    "oscilation_rate = "    "0.27419"
+
+    "total handover = "    "62"
+
+Handover Margin = 2
+RSP = -95.0464
+Location-->  x = 75 y = 13
+time = 363
+    "pinpog_num = "    "17"    "oscilation_rate = "    "0.27419"
+
+    "total handover = "    "62"
+
+Handover Margin = 2
+RSP = -95.0464
+Location-->  x = 75 y = 12
+time = 364
+    "pinpog_num = "    "17"    "oscilation_rate = "    "0.27419"
+
+    "total handover = "    "62"
+
+Handover Margin = 2
+RSP = -94.0464
+Location-->  x = 75 y = 11
+time = 365
+    "pinpog_num = "    "17"    "oscilation_rate = "    "0.27419"
+
+    "total handover = "    "62"
+
+Handover Margin = 2
+RSP = -93.0464
+Location-->  x = 75 y = 10
+time = 366
+    "pinpog_num = "    "17"    "oscilation_rate = "    "0.26984"
+
+    "total handover = "    "63"
+
+Handover Margin = 2
+RSP = -94.0464
+Location-->  x = 75 y = 9
+time = 367
+    "pinpog_num = "    "17"    "oscilation_rate = "    "0.26984"
+
+    "total handover = "    "63"
+
+Handover Margin = 2
+RSP = -92.0464
+Location-->  x = 75 y = 8
+time = 368
+    "pinpog_num = "    "17"    "oscilation_rate = "    "0.26984"
+
+    "total handover = "    "63"
+
+Handover Margin = 2
+RSP = -95.0464
+Location-->  x = 75 y = 7
+time = 369
+    "pinpog_num = "    "17"    "oscilation_rate = "    "0.26563"
+
+    "total handover = "    "64"
+
+Handover Margin = 2
+RSP = -93.0464
+Location-->  x = 75 y = 6
+time = 370
+    "pinpog_num = "    "17"    "oscilation_rate = "    "0.26563"
+
+    "total handover = "    "64"
+
+Handover Margin = 2
+RSP = -92.0464
+Location-->  x = 75 y = 5
+time = 371
+    "pinpog_num = "    "17"    "oscilation_rate = "    "0.26563"
+
+    "total handover = "    "64"
+
+Handover Margin = 2
+RSP = -94.0464
+Location-->  x = 75 y = 4
+time = 372
+    "pinpog_num = "    "17"    "oscilation_rate = "    "0.26563"
+
+    "total handover = "    "64"
+
+Handover Margin = 2
+RSP = -95.0464
+Location-->  x = 75 y = 3
+time = 373
+    "pinpog_num = "    "17"    "oscilation_rate = "    "0.26563"
+
+    "total handover = "    "64"
+
+Handover Margin = 2
+RSP = -94.0464
+Location-->  x = 75 y = 2
+time = 374
+    "pinpog_num = "    "17"    "oscilation_rate = "    "0.26563"
+
+    "total handover = "    "64"
+
+Handover Margin = 2
+RSP = -92.0464
+Location-->  x = 75 y = 1
+time = 375
+    "pinpog_num = "    "17"    "oscilation_rate = "    "0.26563"
+
+    "total handover = "    "64"
+
+Handover Margin = 2
+RSP = -93.0464
+Location-->  x = 75 y = 0
+time = 376
+    "pinpog_num = "    "17"    "oscilation_rate = "    "0.26563"
+
+    "total handover = "    "64"
+
+Handover Margin = 2
+RSP = -94.0464
+Location-->  x = 76 y = 0
+time = 377
+    "pinpog_num = "    "17"    "oscilation_rate = "    "0.26563"
+
+    "total handover = "    "64"
+
+Handover Margin = 2
+RSP = -95.1378
+Location-->  x = 77 y = 0
+time = 378
+    "pinpog_num = "    "17"    "oscilation_rate = "    "0.26563"
+
+    "total handover = "    "64"
+
+Handover Margin = 2
+RSP = -96.2313
+Location-->  x = 78 y = 0
+time = 379
+    "pinpog_num = "    "17"    "oscilation_rate = "    "0.26563"
+
+    "total handover = "    "64"
+
+Handover Margin = 2
+RSP = -96.3266
+Location-->  x = 79 y = 0
+time = 380
+    "pinpog_num = "    "17"    "oscilation_rate = "    "0.26563"
+
+    "total handover = "    "64"
+
+Handover Margin = 2
+RSP = -96.4238
+Location-->  x = 80 y = 0
+time = 381
+    "pinpog_num = "    "17"    "oscilation_rate = "    "0.26154"
+
+    "total handover = "    "65"
+
+Handover Margin = 2
+RSP = -91.5226
+Location-->  x = 81 y = 0
+time = 382
+    "pinpog_num = "    "17"    "oscilation_rate = "    "0.25758"
+
+    "total handover = "    "66"
+
+Handover Margin = 2
+RSP = -90.623
+Location-->  x = 82 y = 0
+time = 383
+    "pinpog_num = "    "18"    "oscilation_rate = "    "0.27273"
+
+    "total handover = "    "66"
+
+Handover Margin = 2
+RSP = -92.7249
+Location-->  x = 83 y = 0
+time = 384
+    "pinpog_num = "    "18"    "oscilation_rate = "    "0.27273"
+
+    "total handover = "    "66"
+
+Handover Margin = 2
+RSP = -94.828
+Location-->  x = 84 y = 0
+time = 385
+    "pinpog_num = "    "18"    "oscilation_rate = "    "0.27273"
+
+    "total handover = "    "66"
+
+Handover Margin = 2
+RSP = -91.9325
+Location-->  x = 85 y = 0
+time = 386
+    "pinpog_num = "    "18"    "oscilation_rate = "    "0.27273"
+
+    "total handover = "    "66"
+
+Handover Margin = 2
+RSP = -95.038
+Location-->  x = 86 y = 0
+time = 387
+    "pinpog_num = "    "18"    "oscilation_rate = "    "0.26866"
+
+    "total handover = "    "67"
+
+Handover Margin = 2
+RSP = -92.1446
+Location-->  x = 87 y = 0
+time = 388
+    "pinpog_num = "    "18"    "oscilation_rate = "    "0.26866"
+
+    "total handover = "    "67"
+
+Handover Margin = 2
+RSP = -98.2522
+Location-->  x = 88 y = 0
+time = 389
+    "pinpog_num = "    "18"    "oscilation_rate = "    "0.26866"
+
+    "total handover = "    "67"
+
+Handover Margin = 2
+RSP = -95.3606
+Location-->  x = 89 y = 0
+time = 390
+    "pinpog_num = "    "18"    "oscilation_rate = "    "0.26866"
+
+    "total handover = "    "67"
+
+Handover Margin = 2
+RSP = -92.4697
+Location-->  x = 90 y = 0
+time = 391
+    "pinpog_num = "    "18"    "oscilation_rate = "    "0.26471"
+
+    "total handover = "    "68"
+
+Handover Margin = 2
+RSP = -94.5796
+Location-->  x = 91 y = 0
+>> 
